@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxaTest", "AxaTest\AxaTest.csproj", "{C21C9259-C06C-46A9-8DFC-FA28F033D52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxaTest.Tests", "AxaTest.Tests\AxaTest.Tests.csproj", "{EF25E9C3-790E-44EE-AB48-7BAED049734A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C21C9259-C06C-46A9-8DFC-FA28F033D52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21C9259-C06C-46A9-8DFC-FA28F033D52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21C9259-C06C-46A9-8DFC-FA28F033D52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21C9259-C06C-46A9-8DFC-FA28F033D52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF25E9C3-790E-44EE-AB48-7BAED049734A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF25E9C3-790E-44EE-AB48-7BAED049734A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF25E9C3-790E-44EE-AB48-7BAED049734A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF25E9C3-790E-44EE-AB48-7BAED049734A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
